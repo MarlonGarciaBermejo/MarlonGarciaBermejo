@@ -7,7 +7,7 @@
 
 I am currently learning on how to develop applications for both Android and IOs.
 
-Skills:
+### SKILLS:
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,kotlin,photoshop)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Myself <3  
