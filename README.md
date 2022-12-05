@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Marlon
+### Hi there! My name is Marlon
 #### I am a Application developer Student!
 ![I am a Application developer Student!]([https://user-images.githubusercontent.com/94327966/205759467-1ec2f583-314e-432c-9a61-e4e7c440746c.png](https://user-images.githubusercontent.com/94327966/205760323-502cc839-8853-474f-8046-109e13c5f2f1.png))
 
