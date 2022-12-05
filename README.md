@@ -1,6 +1,7 @@
 ### Hi there! My name is Marlon
 #### I am a Application developer Student!
-<img width="791" alt="readmeHeader" src="https://user-images.githubusercontent.com/94327966/205760485-84a9f030-a08c-485b-b8a4-6c544077e759.png">
+<img width="791" alt="readmeHeader" src="https://user-images.githubusercontent.com/94327966/205761178-0ee70d7a-5ac7-416b-b87f-d459b678f543.png">
+
 
 I am currently learning on how to develop applications in for both Android and IOs.
 
