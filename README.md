@@ -5,7 +5,8 @@
 
 I am currently learning on how to develop applications in for both Android and IOs.
 
-Skills: KOTLIN / JAVA / ..                         
+Skills: KOTLIN / JAVA / ..
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Myself <3  
 - 🌱 I’m currently learning Android Studios 🤘 
