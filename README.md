@@ -1,7 +1,7 @@
 ### Hi there! My name is Marlon
 #### I am a Application developer Student!
 <img width="791" alt="readmeHeader" src="https://user-images.githubusercontent.com/94327966/205765338-633b0c4e-e16f-4ef5-aea9-94b124f77c02.png">
-### I am currently learning on how to develop applications for both Android and IOs.
+# I am currently learning on how to develop applications for both Android and IOs.
 
 - 🔭 I’m currently working on Myself 💚   
 - 🌱 I’m currently learning Android Studios 🤘 
