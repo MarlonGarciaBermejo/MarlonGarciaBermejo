@@ -4,7 +4,7 @@
 I am currently learning on how to develop applications for both Android and IOs.
 
 ### About me : 
-- 📍 I’m 28 yrs old, located in Stockholm, Sweden.   
+- 📍 I’m 29 yrs old, located in Stockholm, Sweden.   
 - 🌱 I’m currently learning Android Studios 🤘 
 - 📫 How to reach me: marlongarciab@hotmail.com ✉️     
 
