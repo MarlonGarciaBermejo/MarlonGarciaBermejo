@@ -1,6 +1,6 @@
 ### Hi there! My name is Marlon
 #### I am a Application developer Student!
-### IOS / Android Developer
+#### IOS / Android Developer
 
 ### About me : 
 - 📍 I’m 29 yrs old, located in Stockholm, Sweden.   
