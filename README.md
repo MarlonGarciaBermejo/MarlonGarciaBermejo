@@ -4,7 +4,7 @@
 
 ### About me : 
 - 📍 I’m 29 yrs old, located in Stockholm, Sweden.   
-- 🌱 I’m currently learning javascript 🤘 
+- 🌱 I’m currently mastering javascript/typescript for react native 🤘 
 - 📫 How to reach me: marlongarciab@hotmail.com ✉️     
 
 ### SKILLS :
